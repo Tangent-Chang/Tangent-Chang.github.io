@@ -12,9 +12,9 @@ body {
 	box-shadow: 3px 3px 12px gray;
 }
 .intro-message p {
-	width: 50%;
-	margin: auto;
-	/*padding: 0% 25%;*/
+	/*width: 67%;
+	margin: auto;*/
+	padding: 0% 17%;
 	text-align: justify;
 	font-family: 'Merriweather', 'Helvetica Neue', Arial, sans-serif;
 	font-weight: normal;
