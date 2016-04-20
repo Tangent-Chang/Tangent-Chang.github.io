@@ -65,11 +65,14 @@ ul.banner-social-buttons {
     float: none;
 }
 
-.carousel-indicators li{
-	border: 1px solid #424143;
-	
+div.other-project img {
+	margin-bottom: 5px;
 }
-
-.carousel-indicators .active {
-	background-color: #424143;
+.other-project a span {
+	color: #777;
+	display: block;
+	width: 100%;
+	text-align: center; 
+	font-size: 14pt;
+	font-weight: bold;
 }
